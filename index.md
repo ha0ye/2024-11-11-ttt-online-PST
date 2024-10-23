@@ -164,19 +164,6 @@ To request an accommodation for this training, please fill out the
 <a href="https://carpentries.typeform.com/to/B2OSYaD0">accommodation request form</a>.
 If you have questions or need assistance with the accommodation form please <a href="mailto:team@carpentries.org">email us</a>.
 
-<h3>How to Prepare for Instructor Training</h3>
-
-Before your training, please visit our Preparing for Instructor Training page for complete instructions. A brief summary of these instructions is as follows
-<ol>
-  <li>Complete our Pre-training Survey. You will receive a custom link for your event when you receive your connection information.</li>
-  <li>Select a lesson to use for teaching practice sessions and prepare a 3 minute segment, spending no more than 20-30 minutes to prepare.</li>
-  <li>Please read the following:</li>
-    <ul>
-      <li><a href="https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
-      <li><a href="https://carpentries.org/files/reports/AnnualReport2023.pdf">The Carpentries 2023 Annual Report</a></li>
-    </ul>
-</ol>
-
 <h3> Checkout: The Instructor Certification Process</h3>
 After the training event, we ask you to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on our
   <a href="{{ site.training_site }}/checkout.html">Checkout Instructions</a> page and will be discussed at our training.
@@ -229,6 +216,11 @@ for more information.
 
 <h2 id="preparation" name="preparation">Preparation</h2>
 
+
+<h3 id="preparation-presurvey" name="preparation-presurvey">Pre-survey</h3>
+Complete <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a>.
+
+<h3 id="preparation-reading" name="preparation-reading">Reading</h3>
 <p>
   Please read the following before the training begins:
 </p>
@@ -236,18 +228,14 @@ for more information.
   <li><a href="https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
   <li><a href="https://carpentries.org/files/reports/AnnualReport2023.pdf">The Carpentries 2023 Annual Report</a></li>
 </ol>
+
+<h3 id="preparation-reading" name="preparation-reading">Reading</h3>
 <p>
-  Please also read through <em>one</em> episode of one of The Carpentries lessons below
-  carefully, so that you can do some exercises based on it on the
-  first day of the class.  An episode is one page of a lesson.
+  Please also read through <em>one</em> episode of a Carpentries lesson carefully. This content will be used for exercises, and also for your practice teaching. Please spend no more than 20-30 minutes to prepare.
 </p>
 
-  <ul>
-  <li><a href="{{ site.dc_site }}/lessons">Data Carpentry Lessons</a></li>
-  <li><a href="{{ site.lc_site }}/lessons">Library Carpentry Lessons</a></li>
-  <li><a href="{{ site.swc_site }}/lessons">Software Carpentry Lessons</a></li>
-  </ul>
-
+<p>
+  Select an episode from one of the <a href="https://carpentries.github.io/instructor-training/demo_lessons">recommended episodes</a> for teaching demos.
 
 <hr/>
 
