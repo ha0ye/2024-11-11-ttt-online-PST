@@ -229,7 +229,7 @@ Complete <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }
   <li><a href="https://carpentries.org/files/reports/AnnualReport2023.pdf">The Carpentries 2023 Annual Report</a></li>
 </ol>
 
-<h3 id="preparation-reading" name="preparation-reading">Reading</h3>
+<h3 id="preparation-demo-selection" name="preparation-demo-selection">Select an Episode for Practice</h3>
 <p>
   Please also read through <em>one</em> episode of a Carpentries lesson carefully. This content will be used for exercises, and also for your practice teaching. Please spend no more than 20-30 minutes to prepare.
 </p>
