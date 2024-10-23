@@ -231,11 +231,12 @@ Complete <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }
 
 <h3 id="preparation-demo-selection" name="preparation-demo-selection">Select an Episode for Practice</h3>
 <p>
-  Please also read through <em>one</em> episode of a Carpentries lesson carefully. This content will be used for exercises, and also for your practice teaching. Please spend no more than 20-30 minutes to prepare.
+  Please select and read through <em>one</em> episode of a Carpentries lesson carefully, from the <a href="https://carpentries.github.io/instructor-training/index.html#recommended-episodes">recommended list of episodes</a>  
 </p>
 
 <p>
-  Select an episode from one of the <a href="https://carpentries.github.io/instructor-training/demo_lessons">recommended episodes</a> for teaching demos.
+  You will be asked to teach a 90 second introduction to this content during the first half of the workshop, and will teach a 3 minute participatory segment of its content twice during the second half of the workshop (i.e. using live coding or live demonstration). Note that these presentations are expected to be rough, not polished – you should be familiar with the content but please do not over-prepare. This preparation should take no more than 20-30 minutes.
+</p>
 
 <hr/>
 
